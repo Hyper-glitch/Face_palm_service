@@ -1,0 +1,231 @@
+
+[2021-07-08 12:38:54,492] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 12:38:54] "[37mGET / HTTP/1.1[0m" 200 -
+[2021-07-08 12:38:55,909] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 12:38:55] "[37mGET /sign_up HTTP/1.1[0m" 200 -
+[2021-07-08 12:38:59,451] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 12:38:59] "[37mGET /sign_in HTTP/1.1[0m" 200 -
+[2021-07-08 12:39:15,011] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 12:39:15] "[37mGET /sign_in HTTP/1.1[0m" 200 -
+[2021-07-08 12:39:28,029] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 12:39:28] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2021-07-08 12:39:32,433] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 12:39:32] "[32mPOST /sign_in HTTP/1.1[0m" 302 -
+[2021-07-08 12:39:32,441] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 12:39:32] "[37mGET /profile?name=Create HTTP/1.1[0m" 200 -
+[2021-07-08 12:40:03,886] - INFO - _internal :  * Detected change in 'C:\\Users\\Lenovo\\Desktop\\MY\\Python\\Traversy_Media\\camera.py', reloading
+[2021-07-08 12:40:04,010] - INFO - _internal :  * Restarting with stat
+[2021-07-08 13:18:01,863] - INFO - _internal :  * Detected change in 'C:\\Users\\Lenovo\\Desktop\\MY\\Python\\Traversy_Media\\main.py', reloading
+[2021-07-08 13:18:01,936] - INFO - _internal :  * Restarting with stat
+[2021-07-08 13:18:09,290] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 13:18:09] "[32mGET /logout HTTP/1.1[0m" 302 -
+[2021-07-08 13:18:09,306] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 13:18:09] "[37mGET /sign_in HTTP/1.1[0m" 200 -
+[2021-07-08 13:18:26,918] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 13:18:26] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2021-07-08 13:18:39,892] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 13:18:39] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2021-07-08 13:19:52,087] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 13:19:52] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2021-07-08 13:20:16,407] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 13:20:16] "[37mGET /sign_in HTTP/1.1[0m" 200 -
+[2021-07-08 13:20:25,944] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 13:20:25] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2021-07-08 13:20:31,728] - INFO - _internal :  * Detected change in 'C:\\Users\\Lenovo\\Desktop\\MY\\Python\\Traversy_Media\\main.py', reloading
+[2021-07-08 13:20:31,878] - INFO - _internal :  * Restarting with stat
+[2021-07-08 13:21:10,082] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 13:21:10] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2021-07-08 13:21:59,844] - INFO - _internal :  * Detected change in 'C:\\Users\\Lenovo\\Desktop\\MY\\Python\\Traversy_Media\\main.py', reloading
+[2021-07-08 13:21:59,953] - INFO - _internal :  * Restarting with stat
+[2021-07-08 13:22:32,224] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 13:22:32] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2021-07-08 13:23:29,121] - INFO - _internal :  * Detected change in 'C:\\Users\\Lenovo\\Desktop\\MY\\Python\\Traversy_Media\\camera.py', reloading
+[2021-07-08 13:23:29,231] - INFO - _internal :  * Restarting with stat
+[2021-07-08 13:24:02,860] - INFO - _internal :  * Detected change in 'C:\\Users\\Lenovo\\Desktop\\MY\\Python\\Traversy_Media\\camera.py', reloading
+[2021-07-08 13:24:02,933] - INFO - _internal :  * Restarting with stat
+[2021-07-08 13:25:02,126] - INFO - _internal :  * Detected change in 'C:\\Users\\Lenovo\\Desktop\\MY\\Python\\Traversy_Media\\camera.py', reloading
+[2021-07-08 13:25:02,208] - INFO - _internal :  * Restarting with stat
+[2021-07-08 13:25:41,772] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 13:25:41] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2021-07-08 13:25:45,006] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 13:25:45] "[37mGET /sign_in HTTP/1.1[0m" 200 -
+[2021-07-08 13:25:57,449] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 13:25:57] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2021-07-08 13:26:06,486] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 13:26:06] "[37mGET /sign_in HTTP/1.1[0m" 200 -
+[2021-07-08 13:26:24,722] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 13:26:24] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2021-07-08 13:26:27,220] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 13:26:27] "[32mPOST /sign_in HTTP/1.1[0m" 302 -
+[2021-07-08 13:26:27,228] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 13:26:27] "[37mGET /profile?name=Create HTTP/1.1[0m" 200 -
+[2021-07-08 13:26:28,514] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 13:26:28] "[32mGET /logout HTTP/1.1[0m" 302 -
+[2021-07-08 13:26:28,520] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 13:26:28] "[37mGET /sign_in HTTP/1.1[0m" 200 -
+[2021-07-08 13:26:48,902] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 13:26:48] "[37mGET / HTTP/1.1[0m" 200 -
+[2021-07-08 13:26:49,864] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 13:26:49] "[37mGET /sign_up HTTP/1.1[0m" 200 -
+[2021-07-08 13:26:50,873] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 13:26:50] "[37mGET /sign_in HTTP/1.1[0m" 200 -
+[2021-07-08 13:26:52,218] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 13:26:52] "[37mGET /sign_in HTTP/1.1[0m" 200 -
+[2021-07-08 13:26:55,602] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 13:26:55] "[37mGET /sign_up HTTP/1.1[0m" 200 -
+[2021-07-08 13:27:00,540] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 13:27:00] "[37mGET /sign_in HTTP/1.1[0m" 200 -
+[2021-07-08 13:27:04,160] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 13:27:04] "[37mGET /sign_up HTTP/1.1[0m" 200 -
+[2021-07-08 13:27:11,063] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 13:27:11] "[32mPOST /sign_up HTTP/1.1[0m" 302 -
+[2021-07-08 13:27:11,069] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 13:27:11] "[37mGET /sign_up HTTP/1.1[0m" 200 -
+[2021-07-08 13:27:26,828] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 13:27:26] "[32mPOST /upload HTTP/1.1[0m" 302 -
+[2021-07-08 13:27:26,834] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 13:27:26] "[37mGET /sign_in HTTP/1.1[0m" 200 -
+[2021-07-08 13:27:31,401] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 13:27:31] "[32mPOST /sign_up HTTP/1.1[0m" 302 -
+[2021-07-08 13:27:31,410] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 13:27:31] "[37mGET /sign_in HTTP/1.1[0m" 200 -
+[2021-07-08 13:27:44,943] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 13:27:44] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2021-07-08 13:27:59,778] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 13:27:59] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2021-07-08 13:28:30,854] - INFO - _internal :  * Detected change in 'C:\\Users\\Lenovo\\Desktop\\MY\\Python\\Traversy_Media\\camera.py', reloading
+[2021-07-08 13:28:30,973] - INFO - _internal :  * Restarting with stat
+[2021-07-08 13:28:35,942] - INFO - _internal :  * Detected change in 'C:\\Users\\Lenovo\\Desktop\\MY\\Python\\Traversy_Media\\camera.py', reloading
+[2021-07-08 13:28:36,017] - INFO - _internal :  * Restarting with stat
+[2021-07-08 13:28:43,090] - INFO - _internal :  * Detected change in 'C:\\Users\\Lenovo\\Desktop\\MY\\Python\\Traversy_Media\\main.py', reloading
+[2021-07-08 13:28:43,165] - INFO - _internal :  * Restarting with stat
+[2021-07-08 13:28:53,690] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 13:28:53] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2021-07-08 13:28:56,847] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 13:28:56] "[37mGET /sign_in HTTP/1.1[0m" 200 -
+[2021-07-08 13:29:07,652] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 13:29:07] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+[2021-07-08 13:29:37,961] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 13:29:37] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+[2021-07-08 13:31:50,711] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 13:31:50] "[37mGET /sign_in HTTP/1.1[0m" 200 -
+[2021-07-08 13:31:51,312] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 13:31:51] "[37mGET /sign_in HTTP/1.1[0m" 200 -
+[2021-07-08 13:31:52,877] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 13:31:52] "[37mGET / HTTP/1.1[0m" 200 -
+[2021-07-08 13:31:53,650] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 13:31:53] "[37mGET /sign_in HTTP/1.1[0m" 200 -
+[2021-07-08 13:32:04,508] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 13:32:04] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+[2021-07-08 13:32:45,786] - INFO - _internal :  * Detected change in 'C:\\Users\\Lenovo\\Desktop\\MY\\Python\\Traversy_Media\\camera.py', reloading
+[2021-07-08 13:32:45,899] - INFO - _internal :  * Restarting with stat
+[2021-07-08 13:32:55,857] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 13:32:55] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+[2021-07-08 13:33:17,574] - INFO - _internal :  * Detected change in 'C:\\Users\\Lenovo\\Desktop\\MY\\Python\\Traversy_Media\\camera.py', reloading
+[2021-07-08 13:33:17,696] - INFO - _internal :  * Restarting with stat
+[2021-07-08 13:33:26,127] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 13:33:26] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+[2021-07-08 13:33:46,239] - INFO - _internal :  * Detected change in 'C:\\Users\\Lenovo\\Desktop\\MY\\Python\\Traversy_Media\\camera.py', reloading
+[2021-07-08 13:33:46,356] - INFO - _internal :  * Restarting with stat
+[2021-07-08 13:40:13,519] - INFO - _internal :  * Detected change in 'C:\\Users\\Lenovo\\Desktop\\MY\\Python\\Traversy_Media\\camera.py', reloading
+[2021-07-08 13:40:13,649] - INFO - _internal :  * Restarting with stat
+[2021-07-08 13:41:11,659] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 13:41:11] "[37mGET / HTTP/1.1[0m" 200 -
+[2021-07-08 13:41:12,539] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 13:41:12] "[37mGET /sign_up HTTP/1.1[0m" 200 -
+[2021-07-08 13:41:13,091] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 13:41:13] "[37mGET /sign_in HTTP/1.1[0m" 200 -
+[2021-07-08 13:41:24,891] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 13:41:24] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+[2021-07-08 13:41:43,731] - INFO - _internal :  * Detected change in 'C:\\Users\\Lenovo\\Desktop\\MY\\Python\\Traversy_Media\\camera.py', reloading
+[2021-07-08 13:41:43,810] - INFO - _internal :  * Restarting with stat
+[2021-07-08 13:45:47,247] - INFO - _internal :  * Detected change in 'C:\\Users\\Lenovo\\Desktop\\MY\\Python\\Traversy_Media\\camera.py', reloading
+[2021-07-08 13:45:47,321] - INFO - _internal :  * Restarting with stat
+[2021-07-08 13:46:31,688] - INFO - _internal :  * Detected change in 'C:\\Users\\Lenovo\\Desktop\\MY\\Python\\Traversy_Media\\camera.py', reloading
+[2021-07-08 13:46:31,759] - INFO - _internal :  * Restarting with stat
+[2021-07-08 13:47:39,503] - INFO - _internal :  * Detected change in 'C:\\Users\\Lenovo\\Desktop\\MY\\Python\\Traversy_Media\\main.py', reloading
+[2021-07-08 13:47:39,576] - INFO - _internal :  * Restarting with stat
+[2021-07-08 13:48:29,271] - INFO - _internal :  * Detected change in 'C:\\Users\\Lenovo\\Desktop\\MY\\Python\\Traversy_Media\\main.py', reloading
+[2021-07-08 13:48:29,355] - INFO - _internal :  * Restarting with stat
+[2021-07-08 13:48:39,746] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 13:48:39] "[37mGET /sign_in HTTP/1.1[0m" 200 -
+[2021-07-08 13:48:51,526] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 13:48:51] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+[2021-07-08 13:49:22,212] - INFO - _internal :  * Detected change in 'C:\\Users\\Lenovo\\Desktop\\MY\\Python\\Traversy_Media\\camera.py', reloading
+[2021-07-08 13:49:22,324] - INFO - _internal :  * Restarting with stat
+[2021-07-08 13:49:36,303] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 13:49:36] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+[2021-07-08 13:50:05,716] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 13:50:05] "[37mGET /sign_up HTTP/1.1[0m" 200 -
+[2021-07-08 13:50:12,832] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 13:50:12] "[37mGET /sign_in HTTP/1.1[0m" 200 -
+[2021-07-08 13:50:23,043] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 13:50:23] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2021-07-08 13:51:39,342] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 13:51:39] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2021-07-08 13:51:44,538] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 13:51:44] "[37mGET /sign_in HTTP/1.1[0m" 200 -
+[2021-07-08 13:51:59,434] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 13:51:59] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+[2021-07-08 13:52:10,343] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 13:52:10] "[37mGET /sign_in HTTP/1.1[0m" 200 -
+[2021-07-08 13:52:11,587] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 13:52:11] "[37mGET /sign_in HTTP/1.1[0m" 200 -
+[2021-07-08 13:52:22,539] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 13:52:22] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+[2021-07-08 13:53:11,964] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 13:53:11] "[37mGET /sign_in HTTP/1.1[0m" 200 -
+[2021-07-08 13:53:11,971] - INFO - _internal :  * Detected change in 'C:\\Users\\Lenovo\\Desktop\\MY\\Python\\Traversy_Media\\camera.py', reloading
+[2021-07-08 13:53:12,218] - INFO - _internal :  * Restarting with stat
+[2021-07-08 13:53:25,955] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 13:53:25] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+[2021-07-08 13:53:39,650] - INFO - _internal :  * Detected change in 'C:\\Users\\Lenovo\\Desktop\\MY\\Python\\Traversy_Media\\camera.py', reloading
+[2021-07-08 13:53:39,756] - INFO - _internal :  * Restarting with stat
+[2021-07-08 13:58:12,653] - INFO - _internal :  * Detected change in 'C:\\Users\\Lenovo\\Desktop\\MY\\Python\\Traversy_Media\\camera.py', reloading
+[2021-07-08 13:58:12,730] - INFO - _internal :  * Restarting with stat
+[2021-07-08 13:59:06,642] - INFO - _internal :  * Detected change in 'C:\\Users\\Lenovo\\Desktop\\MY\\Python\\Traversy_Media\\camera.py', reloading
+[2021-07-08 13:59:06,713] - INFO - _internal :  * Restarting with stat
+[2021-07-08 14:00:12,301] - INFO - _internal :  * Detected change in 'C:\\Users\\Lenovo\\Desktop\\MY\\Python\\Traversy_Media\\camera.py', reloading
+[2021-07-08 14:00:12,382] - INFO - _internal :  * Restarting with stat
+[2021-07-08 14:00:27,276] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:00:27] "[37mGET /sign_up HTTP/1.1[0m" 200 -
+[2021-07-08 14:00:32,619] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:00:32] "[37mGET /sign_in HTTP/1.1[0m" 200 -
+[2021-07-08 14:00:42,727] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:00:42] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+[2021-07-08 14:00:51,420] - INFO - _internal :  * Detected change in 'C:\\Users\\Lenovo\\Desktop\\MY\\Python\\Traversy_Media\\main.py', reloading
+[2021-07-08 14:00:51,527] - INFO - _internal :  * Restarting with stat
+[2021-07-08 14:00:59,392] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:00:59] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2021-07-08 14:02:37,678] - INFO - _internal :  * Detected change in 'C:\\Users\\Lenovo\\Desktop\\MY\\Python\\Traversy_Media\\main.py', reloading
+[2021-07-08 14:02:37,790] - INFO - _internal :  * Restarting with stat
+[2021-07-08 14:02:46,334] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:02:46] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2021-07-08 14:03:15,681] - INFO - _internal :  * Detected change in 'C:\\Users\\Lenovo\\Desktop\\MY\\Python\\Traversy_Media\\main.py', reloading
+[2021-07-08 14:03:15,794] - INFO - _internal :  * Restarting with stat
+[2021-07-08 14:03:22,946] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:03:22] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+[2021-07-08 14:03:32,471] - INFO - _internal :  * Detected change in 'C:\\Users\\Lenovo\\Desktop\\MY\\Python\\Traversy_Media\\main.py', reloading
+[2021-07-08 14:03:32,576] - INFO - _internal :  * Restarting with stat
+[2021-07-08 14:03:38,757] - INFO - _internal :  * Detected change in 'C:\\Users\\Lenovo\\Desktop\\MY\\Python\\Traversy_Media\\main.py', reloading
+[2021-07-08 14:03:38,854] - INFO - _internal :  * Restarting with stat
+[2021-07-08 14:03:45,710] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:03:45] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2021-07-08 14:04:44,052] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:04:44] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2021-07-08 14:06:38,688] - INFO - _internal :  * Detected change in 'C:\\Users\\Lenovo\\Desktop\\MY\\Python\\Traversy_Media\\camera.py', reloading
+[2021-07-08 14:06:38,819] - INFO - _internal :  * Restarting with stat
+[2021-07-08 14:06:48,589] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:06:48] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2021-07-08 14:07:34,220] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:07:34] "[37mGET /sign_in HTTP/1.1[0m" 200 -
+[2021-07-08 14:07:36,016] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:07:36] "[37mGET /sign_in HTTP/1.1[0m" 200 -
+[2021-07-08 14:07:48,045] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:07:48] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2021-07-08 14:07:59,666] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:07:59] "[35m[1mPOST /sign_in HTTP/1.1[0m" 500 -
+[2021-07-08 14:08:00,254] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:08:00] "[37mGET /sign_in?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[2021-07-08 14:08:00,255] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:08:00] "[37mGET /sign_in?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[2021-07-08 14:08:00,263] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:08:00] "[37mGET /sign_in?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[2021-07-08 14:08:00,335] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:08:00] "[37mGET /sign_in?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2021-07-08 14:08:00,338] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:08:00] "[37mGET /sign_in?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+[2021-07-08 14:08:00,356] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:08:00] "[37mGET /sign_in?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2021-07-08 14:08:05,384] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:08:05] "[37mGET /sign_in HTTP/1.1[0m" 200 -
+[2021-07-08 14:08:06,511] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:08:06] "[37mGET /sign_in HTTP/1.1[0m" 200 -
+[2021-07-08 14:08:18,037] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:08:18] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2021-07-08 14:08:22,627] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:08:22] "[37mGET /sign_in HTTP/1.1[0m" 200 -
+[2021-07-08 14:08:36,692] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:08:36] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2021-07-08 14:08:43,207] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:08:43] "[37mGET /sign_in HTTP/1.1[0m" 200 -
+[2021-07-08 14:08:52,623] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:08:52] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2021-07-08 14:09:01,169] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:09:01] "[37mGET /sign_in HTTP/1.1[0m" 200 -
+[2021-07-08 14:09:21,004] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:09:21] "[37mGET /sign_in HTTP/1.1[0m" 200 -
+[2021-07-08 14:09:32,099] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:09:32] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2021-07-08 14:09:55,696] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:09:55] "[37mGET /sign_in HTTP/1.1[0m" 200 -
+[2021-07-08 14:09:55,808] - INFO - _internal :  * Detected change in 'C:\\Users\\Lenovo\\Desktop\\MY\\Python\\Traversy_Media\\main.py', reloading
+[2021-07-08 14:09:55,965] - INFO - _internal :  * Restarting with stat
+[2021-07-08 14:10:04,425] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:10:04] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+[2021-07-08 14:10:10,293] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:10:10] "[37mGET /sign_in HTTP/1.1[0m" 200 -
+[2021-07-08 14:10:19,077] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:10:19] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2021-07-08 14:10:24,688] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:10:24] "[37mGET /sign_in HTTP/1.1[0m" 200 -
+[2021-07-08 14:10:33,065] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:10:33] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2021-07-08 14:10:36,146] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:10:36] "[37mGET /sign_in HTTP/1.1[0m" 200 -
+[2021-07-08 14:15:45,509] - INFO - _internal :  * Detected change in 'C:\\Users\\Lenovo\\Desktop\\MY\\Python\\Traversy_Media\\application.py', reloading
+[2021-07-08 14:15:45,635] - INFO - _internal :  * Restarting with stat
+[2021-07-08 14:18:50,239] - INFO - _internal :  * Restarting with stat
+[2021-07-08 14:19:04,964] - INFO - _internal :  * Restarting with stat
+[2021-07-08 14:19:05,869] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:19:05] "[37mGET /sign_in HTTP/1.1[0m" 200 -
+[2021-07-08 14:19:06,773] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:19:06] "[37mGET /sign_up HTTP/1.1[0m" 200 -
+[2021-07-08 14:19:07,232] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:19:07] "[37mGET /sign_in HTTP/1.1[0m" 200 -
+[2021-07-08 14:19:08,101] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:19:08] "[37mGET /contact HTTP/1.1[0m" 200 -
+[2021-07-08 14:19:08,417] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:19:08] "[37mGET / HTTP/1.1[0m" 200 -
+[2021-07-08 14:19:10,405] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:19:10] "[37mGET /sign_in HTTP/1.1[0m" 200 -
+[2021-07-08 14:19:10,719] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:19:10] "[37mGET /sign_up HTTP/1.1[0m" 200 -
+[2021-07-08 14:21:08,104] - INFO - _internal :  * Detected change in 'C:\\Users\\Lenovo\\Desktop\\MY\\Python\\Traversy_Media\\application.py', reloading
+[2021-07-08 14:21:08,191] - INFO - _internal :  * Restarting with stat
+[2021-07-08 14:21:17,519] - INFO - _internal :  * Restarting with stat
+[2021-07-08 14:21:33,215] - INFO - _internal :  * Restarting with stat
+[2021-07-08 14:21:48,899] - INFO - _internal :  * Restarting with stat
+[2021-07-08 14:21:52,398] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:21:52] "[37mGET /sign_up HTTP/1.1[0m" 200 -
+[2021-07-08 14:21:53,669] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:21:53] "[37mGET /sign_in HTTP/1.1[0m" 200 -
+[2021-07-08 14:21:54,538] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:21:54] "[37mGET /sign_up HTTP/1.1[0m" 200 -
+[2021-07-08 14:23:03,091] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:23:03] "[37mGET /sign_in HTTP/1.1[0m" 200 -
+[2021-07-08 14:25:25,619] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:25:25] "[37mGET /sign_in HTTP/1.1[0m" 200 -
+[2021-07-08 14:25:26,458] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:25:26] "[37mGET /sign_up HTTP/1.1[0m" 200 -
+[2021-07-08 14:25:33,070] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:25:33] "[37mGET /sign_up HTTP/1.1[0m" 200 -
+[2021-07-08 14:25:36,520] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:25:36] "[37mGET /sign_up HTTP/1.1[0m" 200 -
+[2021-07-08 14:25:40,427] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:25:40] "[37mGET /sign_up HTTP/1.1[0m" 200 -
+[2021-07-08 14:25:49,136] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:25:49] "[37mGET /sign_up HTTP/1.1[0m" 200 -
+[2021-07-08 14:26:08,887] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:26:08] "[37mGET /sign_up HTTP/1.1[0m" 200 -
+[2021-07-08 14:26:19,588] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:26:19] "[37mGET /sign_up HTTP/1.1[0m" 200 -
+[2021-07-08 14:26:52,862] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:26:52] "[37mGET /sign_in HTTP/1.1[0m" 200 -
+[2021-07-08 14:27:02,753] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:27:02] "[37mGET /sign_in HTTP/1.1[0m" 200 -
+[2021-07-08 14:27:04,079] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:27:04] "[37mGET /sign_up HTTP/1.1[0m" 200 -
+[2021-07-08 14:27:05,166] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:27:05] "[37mGET /sign_in HTTP/1.1[0m" 200 -
+[2021-07-08 14:27:07,352] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:27:07] "[37mGET /sign_up HTTP/1.1[0m" 200 -
+[2021-07-08 14:27:09,701] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:27:09] "[37mGET /sign_in HTTP/1.1[0m" 200 -
+[2021-07-08 14:27:26,147] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:27:26] "[37mGET /sign_up HTTP/1.1[0m" 200 -
+[2021-07-08 14:27:26,799] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:27:26] "[37mGET / HTTP/1.1[0m" 200 -
+[2021-07-08 14:27:27,301] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:27:27] "[37mGET /contact HTTP/1.1[0m" 200 -
+[2021-07-08 14:27:28,572] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:27:28] "[37mGET / HTTP/1.1[0m" 200 -
+[2021-07-08 14:27:29,118] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:27:29] "[37mGET / HTTP/1.1[0m" 200 -
+[2021-07-08 14:27:30,085] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:27:30] "[37mGET / HTTP/1.1[0m" 200 -
+[2021-07-08 14:27:30,599] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:27:30] "[37mGET /contact HTTP/1.1[0m" 200 -
+[2021-07-08 14:27:31,555] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:27:31] "[37mGET /sign_up HTTP/1.1[0m" 200 -
+[2021-07-08 14:28:21,117] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:28:21] "[37mGET /sign_in HTTP/1.1[0m" 200 -
+[2021-07-08 14:28:25,596] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:28:25] "[32mPOST /sign_in HTTP/1.1[0m" 302 -
+[2021-07-08 14:28:25,603] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:28:25] "[37mGET /sign_in HTTP/1.1[0m" 200 -
+[2021-07-08 14:28:30,333] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:28:30] "[35m[1mPOST /sign_in HTTP/1.1[0m" 500 -
+[2021-07-08 14:28:30,942] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:28:30] "[37mGET /sign_in?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[2021-07-08 14:28:30,943] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:28:30] "[37mGET /sign_in?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[2021-07-08 14:28:30,944] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:28:30] "[37mGET /sign_in?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[2021-07-08 14:28:30,996] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:28:30] "[37mGET /sign_in?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2021-07-08 14:28:31,003] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:28:31] "[37mGET /sign_in?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+[2021-07-08 14:28:31,027] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:28:31] "[37mGET /sign_in?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2021-07-08 14:29:16,239] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:29:16] "[37mGET /sign_in HTTP/1.1[0m" 200 -
+[2021-07-08 14:29:54,229] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:29:54] "[37mGET / HTTP/1.1[0m" 200 -
+[2021-07-08 14:29:55,298] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:29:55] "[37mGET /sign_up HTTP/1.1[0m" 200 -
+[2021-07-08 14:29:55,774] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:29:55] "[37mGET /sign_in HTTP/1.1[0m" 200 -
+[2021-07-08 14:48:29,005] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:48:29] "[37mGET /sign_in HTTP/1.1[0m" 200 -
+[2021-07-08 14:48:29,496] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 14:48:29] "[37mGET /sign_up HTTP/1.1[0m" 200 -
+[2021-07-08 14:49:43,180] - INFO - _internal :  * Detected change in 'c:\\users\\lenovo\\desktop\\my\\python\\traversy_media\\lib\\site-packages\\numpy\\_pytesttester.py', reloading
+[2021-07-08 14:49:43,256] - INFO - _internal :  * Restarting with stat
+[2021-07-08 15:28:48,036] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 15:28:48] "[37mGET / HTTP/1.1[0m" 200 -

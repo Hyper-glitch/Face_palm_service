@@ -1,0 +1,521 @@
+[2021-07-08 12:39:27,578] - INFO - main : The video file accepted
+[2021-07-08 12:39:27,578] - INFO - main : The username field accepted
+[2021-07-08 12:39:27,579] - INFO - main : The attribute field accepted
+[2021-07-08 12:39:27,579] - INFO - main : The attribute field is equal SIGN IN
+[2021-07-08 12:39:27,579] - INFO - main : The Create directory was created in tempdata
+[2021-07-08 12:39:27,585] - INFO - main : Creating Create to SIGN IN
+[2021-07-08 12:39:27,585] - DEBUG - main : <camera.VideoCamera object at 0x000001A7160EAFA0>
+[2021-07-08 12:39:27,585] - INFO - main : Create created!
+[2021-07-08 12:39:28,026] - INFO - main : The confidence value received from recognizer
+[2021-07-08 12:39:28,027] - INFO - camera : The video removed from tempdata!
+[2021-07-08 12:39:28,028] - DEBUG - main : Confidence = 57.429860258151486 %
+[2021-07-08 12:39:32,411] - INFO - auth : Username Create data received
+[2021-07-08 12:39:32,412] - INFO - auth : Confidence = 57.429860258151486 data received
+[2021-07-08 12:39:32,431] - INFO - auth : Searching username Create in the database
+[2021-07-08 12:39:32,432] - INFO - auth : Username Create now logged in
+[2021-07-08 13:18:09,289] - INFO - auth : Username Create logged out
+[2021-07-08 13:18:26,402] - INFO - main : The video file accepted
+[2021-07-08 13:18:26,403] - INFO - main : The username field accepted
+[2021-07-08 13:18:26,403] - INFO - main : The attribute field accepted
+[2021-07-08 13:18:26,403] - INFO - main : The attribute field is equal SIGN IN
+[2021-07-08 13:18:26,404] - INFO - main : The Create directory was created in tempdata
+[2021-07-08 13:18:26,409] - INFO - main : Creating Create to SIGN IN
+[2021-07-08 13:18:26,410] - DEBUG - main : <camera.VideoCamera object at 0x0000027461166730>
+[2021-07-08 13:18:26,410] - INFO - main : Create created!
+[2021-07-08 13:18:26,914] - INFO - main : The confidence value received from recognizer
+[2021-07-08 13:18:26,915] - INFO - camera : The video removed from tempdata
+[2021-07-08 13:18:26,915] - DEBUG - main : Confidence = 65.0 %
+[2021-07-08 13:18:39,779] - INFO - main : The video file accepted
+[2021-07-08 13:18:39,779] - INFO - main : The username field accepted
+[2021-07-08 13:18:39,780] - INFO - main : The attribute field accepted
+[2021-07-08 13:18:39,780] - INFO - main : The attribute field is equal SIGN IN
+[2021-07-08 13:18:39,782] - INFO - main : The Create directory was created in tempdata
+[2021-07-08 13:18:39,790] - INFO - main : Creating Create to SIGN IN
+[2021-07-08 13:18:39,791] - DEBUG - main : <camera.VideoCamera object at 0x0000027461166880>
+[2021-07-08 13:18:39,791] - INFO - main : Create created!
+[2021-07-08 13:18:39,887] - INFO - main : The confidence value received from recognizer
+[2021-07-08 13:18:39,889] - INFO - camera : The video removed from tempdata
+[2021-07-08 13:18:39,889] - DEBUG - main : Confidence = 65.0 %
+[2021-07-08 13:19:51,970] - INFO - main : The video file accepted
+[2021-07-08 13:19:51,970] - INFO - main : The username field accepted
+[2021-07-08 13:19:51,970] - INFO - main : The attribute field accepted
+[2021-07-08 13:19:51,971] - INFO - main : The attribute field is equal SIGN IN
+[2021-07-08 13:19:51,971] - INFO - main : The Create directory was created in tempdata
+[2021-07-08 13:19:51,985] - INFO - main : Creating Create to SIGN IN
+[2021-07-08 13:19:51,985] - DEBUG - main : <camera.VideoCamera object at 0x0000027461166C10>
+[2021-07-08 13:19:51,986] - INFO - main : Create created!
+[2021-07-08 13:19:52,084] - INFO - main : The confidence value received from recognizer
+[2021-07-08 13:19:52,085] - INFO - camera : The video removed from tempdata
+[2021-07-08 13:19:52,086] - DEBUG - main : Confidence = 65.0 %
+[2021-07-08 13:20:25,846] - INFO - main : The video file accepted
+[2021-07-08 13:20:25,846] - INFO - main : The username field accepted
+[2021-07-08 13:20:25,847] - INFO - main : The attribute field accepted
+[2021-07-08 13:20:25,847] - INFO - main : The attribute field is equal SIGN IN
+[2021-07-08 13:20:25,848] - INFO - main : The Create directory was created in tempdata
+[2021-07-08 13:20:25,853] - INFO - main : Creating Create to SIGN IN
+[2021-07-08 13:20:25,853] - DEBUG - main : <camera.VideoCamera object at 0x00000274611BACD0>
+[2021-07-08 13:20:25,853] - INFO - main : Create created!
+[2021-07-08 13:20:25,941] - INFO - main : The confidence value received from recognizer
+[2021-07-08 13:20:25,942] - INFO - camera : The video removed from tempdata
+[2021-07-08 13:20:25,942] - DEBUG - main : Confidence = 57.0 %
+[2021-07-08 13:21:09,596] - INFO - main : The video file accepted
+[2021-07-08 13:21:09,597] - INFO - main : The username field accepted
+[2021-07-08 13:21:09,597] - INFO - main : The attribute field accepted
+[2021-07-08 13:21:09,598] - INFO - main : The attribute field is equal SIGN IN
+[2021-07-08 13:21:09,598] - INFO - main : The Create directory was created in tempdata
+[2021-07-08 13:21:09,608] - INFO - main : Creating Create to SIGN IN
+[2021-07-08 13:21:09,608] - DEBUG - main : <camera.VideoCamera object at 0x0000018EBF2B85E0>
+[2021-07-08 13:21:09,609] - INFO - main : Create created!
+[2021-07-08 13:21:10,079] - INFO - main : The confidence value received from recognizer
+[2021-07-08 13:21:10,080] - INFO - camera : The video removed from tempdata
+[2021-07-08 13:21:10,080] - DEBUG - main : Confidence = 57.03 %
+[2021-07-08 13:22:31,736] - INFO - main : The video file accepted
+[2021-07-08 13:22:31,736] - INFO - main : The username field accepted
+[2021-07-08 13:22:31,736] - INFO - main : The attribute field accepted
+[2021-07-08 13:22:31,737] - INFO - main : The attribute field is equal SIGN IN
+[2021-07-08 13:22:31,737] - INFO - main : The Create directory was created in tempdata
+[2021-07-08 13:22:31,752] - INFO - main : The Create.webm saved in tempdata
+[2021-07-08 13:22:31,752] - INFO - main : Creating Create to SIGN IN
+[2021-07-08 13:22:31,752] - DEBUG - main : <camera.VideoCamera object at 0x0000022B2A425EB0>
+[2021-07-08 13:22:31,753] - INFO - main : Create created!
+[2021-07-08 13:22:32,220] - INFO - main : The confidence value received from recognizer
+[2021-07-08 13:22:32,222] - INFO - camera : The video removed from tempdata
+[2021-07-08 13:22:32,222] - DEBUG - main : Confidence = 57.03 %
+[2021-07-08 13:25:41,272] - INFO - main : The video file accepted
+[2021-07-08 13:25:41,272] - INFO - main : The username field accepted
+[2021-07-08 13:25:41,272] - INFO - main : The attribute field accepted
+[2021-07-08 13:25:41,273] - INFO - main : The attribute field is equal SIGN IN
+[2021-07-08 13:25:41,273] - INFO - main : The Create directory was created in tempdata
+[2021-07-08 13:25:41,297] - INFO - main : The Create.webm saved in tempdata
+[2021-07-08 13:25:41,298] - INFO - main : Creating Create to SIGN IN
+[2021-07-08 13:25:41,298] - DEBUG - main : <camera.VideoCamera object at 0x00000205F117AC70>
+[2021-07-08 13:25:41,298] - INFO - main : Create created!
+[2021-07-08 13:25:41,766] - INFO - main : The confidence value received from recognizer
+[2021-07-08 13:25:41,769] - INFO - camera : The video removed from tempdata
+[2021-07-08 13:25:41,769] - DEBUG - main : Confidence = 57.03 %
+[2021-07-08 13:25:57,351] - INFO - main : The video file accepted
+[2021-07-08 13:25:57,351] - INFO - main : The username field accepted
+[2021-07-08 13:25:57,352] - INFO - main : The attribute field accepted
+[2021-07-08 13:25:57,352] - INFO - main : The attribute field is equal SIGN IN
+[2021-07-08 13:25:57,352] - INFO - main : The Create directory was created in tempdata
+[2021-07-08 13:25:57,360] - INFO - main : The Create.webm saved in tempdata
+[2021-07-08 13:25:57,360] - INFO - main : Creating Create to SIGN IN
+[2021-07-08 13:25:57,360] - DEBUG - main : <camera.VideoCamera object at 0x00000205F21DB370>
+[2021-07-08 13:25:57,361] - INFO - main : Create created!
+[2021-07-08 13:25:57,446] - INFO - main : The confidence value received from recognizer
+[2021-07-08 13:25:57,447] - INFO - camera : The video removed from tempdata
+[2021-07-08 13:25:57,447] - DEBUG - main : Confidence = 57.03 %
+[2021-07-08 13:26:24,629] - INFO - main : The video file accepted
+[2021-07-08 13:26:24,629] - INFO - main : The username field accepted
+[2021-07-08 13:26:24,629] - INFO - main : The attribute field accepted
+[2021-07-08 13:26:24,630] - INFO - main : The attribute field is equal SIGN IN
+[2021-07-08 13:26:24,631] - INFO - main : The Create directory was created in tempdata
+[2021-07-08 13:26:24,635] - INFO - main : The Create.webm saved in tempdata
+[2021-07-08 13:26:24,635] - INFO - main : Creating Create to SIGN IN
+[2021-07-08 13:26:24,635] - DEBUG - main : <camera.VideoCamera object at 0x00000205F21DBFA0>
+[2021-07-08 13:26:24,636] - INFO - main : Create created!
+[2021-07-08 13:26:24,719] - INFO - main : The confidence value received from recognizer
+[2021-07-08 13:26:24,721] - INFO - camera : The video removed from tempdata
+[2021-07-08 13:26:24,721] - DEBUG - main : Confidence = 57.03 %
+[2021-07-08 13:26:27,199] - INFO - auth : Username Create data received
+[2021-07-08 13:26:27,199] - INFO - auth : Confidence = 57.03 data received
+[2021-07-08 13:26:27,219] - INFO - auth : Searching username Create in the database
+[2021-07-08 13:26:27,219] - INFO - auth : Username Create now logged in
+[2021-07-08 13:26:28,513] - INFO - auth : Username Create logged out
+[2021-07-08 13:27:11,058] - INFO - auth : Username data received
+[2021-07-08 13:27:11,058] - DEBUG - auth : Username data = Roman
+[2021-07-08 13:27:11,059] - INFO - auth : Username Roman created
+[2021-07-08 13:27:11,059] - INFO - auth : Username Roman added to database
+[2021-07-08 13:27:11,062] - CRITICAL - auth : Username Roman is already exists.
+[2021-07-08 13:27:26,288] - INFO - main : The video file accepted
+[2021-07-08 13:27:26,289] - INFO - main : The username field accepted
+[2021-07-08 13:27:26,289] - INFO - main : The attribute field accepted
+[2021-07-08 13:27:26,289] - INFO - main : The attribute field is equal SIGN UP
+[2021-07-08 13:27:26,290] - INFO - main : The Roman_bugulman directory was created in dataset
+[2021-07-08 13:27:26,295] - INFO - main : The Roman_bugulman.webm saved in dataset
+[2021-07-08 13:27:26,295] - INFO - main : Starting create_recognizer function..
+[2021-07-08 13:27:26,296] - INFO - main : Creating Roman_bugulman to SIGN UP
+[2021-07-08 13:27:26,296] - DEBUG - main : <camera.VideoCamera object at 0x00000205F32A4550>
+[2021-07-08 13:27:26,296] - INFO - main : Roman_bugulman created!
+[2021-07-08 13:27:26,707] - INFO - camera : Photos were created!
+[2021-07-08 13:27:26,732] - INFO - camera : The video removed from dataset!
+[2021-07-08 13:27:26,759] - INFO - main :  faces, labels returned from create_recognizer function
+[2021-07-08 13:27:26,785] - INFO - main : The trainer file compiled
+[2021-07-08 13:27:26,826] - INFO - main : The trainer file saved in datasets
+[2021-07-08 13:27:26,826] - INFO - main : Stop create_recognizer function.
+[2021-07-08 13:27:31,392] - INFO - auth : Username data received
+[2021-07-08 13:27:31,393] - DEBUG - auth : Username data = Roman_bugulman
+[2021-07-08 13:27:31,394] - INFO - auth : Username Roman_bugulman created
+[2021-07-08 13:27:31,394] - INFO - auth : Username Roman_bugulman added to database
+[2021-07-08 13:27:31,400] - INFO - auth : Username Roman_bugulman commitedd to database
+[2021-07-08 13:27:31,400] - INFO - auth : Username Roman_bugulman registered successfully
+[2021-07-08 13:27:44,832] - INFO - main : The video file accepted
+[2021-07-08 13:27:44,833] - INFO - main : The username field accepted
+[2021-07-08 13:27:44,833] - INFO - main : The attribute field accepted
+[2021-07-08 13:27:44,834] - INFO - main : The attribute field is equal SIGN IN
+[2021-07-08 13:27:44,834] - INFO - main : The Roman_bugulman directory was created in tempdata
+[2021-07-08 13:27:44,840] - INFO - main : The Roman_bugulman.webm saved in tempdata
+[2021-07-08 13:27:44,841] - INFO - main : Creating Roman_bugulman to SIGN IN
+[2021-07-08 13:27:44,841] - DEBUG - main : <camera.VideoCamera object at 0x00000205F32A4AC0>
+[2021-07-08 13:27:44,841] - INFO - main : Roman_bugulman created!
+[2021-07-08 13:27:44,940] - INFO - main : The confidence value received from recognizer
+[2021-07-08 13:27:44,941] - INFO - camera : The video removed from tempdata
+[2021-07-08 13:27:44,941] - DEBUG - main : Confidence = 62.93 %
+[2021-07-08 13:27:59,673] - INFO - main : The video file accepted
+[2021-07-08 13:27:59,673] - INFO - main : The username field accepted
+[2021-07-08 13:27:59,674] - INFO - main : The attribute field accepted
+[2021-07-08 13:27:59,674] - INFO - main : The attribute field is equal SIGN IN
+[2021-07-08 13:27:59,675] - INFO - main : The Roman_bugulman directory was created in tempdata
+[2021-07-08 13:27:59,684] - INFO - main : The Roman_bugulman.webm saved in tempdata
+[2021-07-08 13:27:59,684] - INFO - main : Creating Roman_bugulman to SIGN IN
+[2021-07-08 13:27:59,684] - DEBUG - main : <camera.VideoCamera object at 0x00000205F33413A0>
+[2021-07-08 13:27:59,685] - INFO - main : Roman_bugulman created!
+[2021-07-08 13:27:59,775] - INFO - main : The confidence value received from recognizer
+[2021-07-08 13:27:59,776] - INFO - camera : The video removed from tempdata
+[2021-07-08 13:27:59,777] - DEBUG - main : Confidence = 62.93 %
+[2021-07-08 13:28:53,202] - INFO - main : The video file accepted
+[2021-07-08 13:28:53,202] - INFO - main : The username field accepted
+[2021-07-08 13:28:53,203] - INFO - main : The attribute field accepted
+[2021-07-08 13:28:53,203] - INFO - main : The attribute field is equal SIGN IN
+[2021-07-08 13:28:53,203] - INFO - main : The Roman_bugulman directory was created in tempdata
+[2021-07-08 13:28:53,217] - INFO - main : The Roman_bugulman.webm saved in tempdata
+[2021-07-08 13:28:53,217] - INFO - main : Creating Roman_bugulman to SIGN IN
+[2021-07-08 13:28:53,217] - DEBUG - main : <camera.VideoCamera object at 0x00000148A6CC60D0>
+[2021-07-08 13:28:53,218] - INFO - main : Roman_bugulman created!
+[2021-07-08 13:28:53,687] - INFO - main : The confidence value received from recognizer
+[2021-07-08 13:28:53,688] - INFO - camera : The video removed from tempdata
+[2021-07-08 13:28:53,688] - DEBUG - main : Confidence = 62.930331629374486 %
+[2021-07-08 13:29:07,551] - INFO - main : The video file accepted
+[2021-07-08 13:29:07,551] - INFO - main : The username field accepted
+[2021-07-08 13:29:07,551] - INFO - main : The attribute field accepted
+[2021-07-08 13:29:07,552] - INFO - main : The attribute field is equal SIGN IN
+[2021-07-08 13:29:07,552] - INFO - main : The Roman_bugulman directory was created in tempdata
+[2021-07-08 13:29:07,557] - INFO - main : The Roman_bugulman.webm saved in tempdata
+[2021-07-08 13:29:07,557] - INFO - main : Creating Roman_bugulman to SIGN IN
+[2021-07-08 13:29:07,557] - DEBUG - main : <camera.VideoCamera object at 0x00000148A6CE7280>
+[2021-07-08 13:29:07,558] - INFO - main : Roman_bugulman created!
+[2021-07-08 13:29:37,858] - INFO - main : The video file accepted
+[2021-07-08 13:29:37,858] - INFO - main : The username field accepted
+[2021-07-08 13:29:37,858] - INFO - main : The attribute field accepted
+[2021-07-08 13:29:37,859] - INFO - main : The attribute field is equal SIGN IN
+[2021-07-08 13:29:37,868] - INFO - main : The Roman_bugulman.webm saved in tempdata
+[2021-07-08 13:29:37,868] - INFO - main : Creating Roman_bugulman to SIGN IN
+[2021-07-08 13:29:37,868] - DEBUG - main : <camera.VideoCamera object at 0x00000148A6D198B0>
+[2021-07-08 13:29:37,869] - INFO - main : Roman_bugulman created!
+[2021-07-08 13:32:04,406] - INFO - main : The video file accepted
+[2021-07-08 13:32:04,407] - INFO - main : The username field accepted
+[2021-07-08 13:32:04,407] - INFO - main : The attribute field accepted
+[2021-07-08 13:32:04,407] - INFO - main : The attribute field is equal SIGN IN
+[2021-07-08 13:32:04,411] - INFO - main : The Roman_bugulman.webm saved in tempdata
+[2021-07-08 13:32:04,412] - INFO - main : Creating Roman_bugulman to SIGN IN
+[2021-07-08 13:32:04,412] - DEBUG - main : <camera.VideoCamera object at 0x00000148A6CC6B50>
+[2021-07-08 13:32:04,412] - INFO - main : Roman_bugulman created!
+[2021-07-08 13:32:55,400] - INFO - main : The video file accepted
+[2021-07-08 13:32:55,400] - INFO - main : The username field accepted
+[2021-07-08 13:32:55,400] - INFO - main : The attribute field accepted
+[2021-07-08 13:32:55,401] - INFO - main : The attribute field is equal SIGN IN
+[2021-07-08 13:32:55,409] - INFO - main : The Roman_bugulman.webm saved in tempdata
+[2021-07-08 13:32:55,410] - INFO - main : Creating Roman_bugulman to SIGN IN
+[2021-07-08 13:32:55,410] - DEBUG - main : <camera.VideoCamera object at 0x000001F6D3B09F70>
+[2021-07-08 13:32:55,411] - INFO - main : Roman_bugulman created!
+[2021-07-08 13:33:25,647] - INFO - main : The video file accepted
+[2021-07-08 13:33:25,647] - INFO - main : The username field accepted
+[2021-07-08 13:33:25,648] - INFO - main : The attribute field accepted
+[2021-07-08 13:33:25,648] - INFO - main : The attribute field is equal SIGN IN
+[2021-07-08 13:33:25,661] - INFO - main : The Roman_bugulman.webm saved in tempdata
+[2021-07-08 13:33:25,661] - INFO - main : Creating Roman_bugulman to SIGN IN
+[2021-07-08 13:33:25,661] - DEBUG - main : <camera.VideoCamera object at 0x000002B0E5384A90>
+[2021-07-08 13:33:25,662] - INFO - main : Roman_bugulman created!
+[2021-07-08 13:41:24,874] - INFO - main : The video file accepted
+[2021-07-08 13:41:24,874] - INFO - main : The username field accepted
+[2021-07-08 13:41:24,874] - INFO - main : The attribute field accepted
+[2021-07-08 13:41:24,875] - INFO - main : The attribute field is equal SIGN IN
+[2021-07-08 13:41:24,881] - INFO - main : The Roman_bugulman.webm saved in tempdata
+[2021-07-08 13:41:24,881] - INFO - main : Creating Roman_bugulman to SIGN IN
+[2021-07-08 13:41:24,881] - DEBUG - main : <camera.VideoCamera object at 0x000001AF781D1CD0>
+[2021-07-08 13:41:24,881] - INFO - main : Roman_bugulman created!
+[2021-07-08 13:48:51,044] - INFO - main : The video file accepted
+[2021-07-08 13:48:51,044] - INFO - main : The username field accepted
+[2021-07-08 13:48:51,045] - INFO - main : The attribute field accepted
+[2021-07-08 13:48:51,045] - INFO - main : The attribute field is equal SIGN IN
+[2021-07-08 13:48:51,049] - INFO - main : The Roman_bugulman.webm saved in tempdata
+[2021-07-08 13:48:51,050] - INFO - main : Creating Roman_bugulman to SIGN IN
+[2021-07-08 13:48:51,050] - DEBUG - main : <camera.VideoCamera object at 0x0000020A40143E20>
+[2021-07-08 13:48:51,050] - INFO - main : Roman_bugulman created!
+[2021-07-08 13:49:35,823] - INFO - main : The video file accepted
+[2021-07-08 13:49:35,823] - INFO - main : The username field accepted
+[2021-07-08 13:49:35,824] - INFO - main : The attribute field accepted
+[2021-07-08 13:49:35,824] - INFO - main : The attribute field is equal SIGN IN
+[2021-07-08 13:49:35,837] - INFO - main : The Roman_bugulman.webm saved in tempdata
+[2021-07-08 13:49:35,837] - INFO - main : Creating Roman_bugulman to SIGN IN
+[2021-07-08 13:49:35,838] - DEBUG - main : <camera.VideoCamera object at 0x0000022ECA3FBEB0>
+[2021-07-08 13:49:35,838] - INFO - main : Roman_bugulman created!
+[2021-07-08 13:50:22,942] - INFO - main : The video file accepted
+[2021-07-08 13:50:22,942] - INFO - main : The username field accepted
+[2021-07-08 13:50:22,943] - INFO - main : The attribute field accepted
+[2021-07-08 13:50:22,943] - INFO - main : The attribute field is equal SIGN IN
+[2021-07-08 13:50:22,944] - INFO - main : The Create directory was created in tempdata
+[2021-07-08 13:50:22,949] - INFO - main : The Create.webm saved in tempdata
+[2021-07-08 13:50:22,949] - INFO - main : Creating Create to SIGN IN
+[2021-07-08 13:50:22,949] - DEBUG - main : <camera.VideoCamera object at 0x0000022ECB403F70>
+[2021-07-08 13:50:22,950] - INFO - main : Create created!
+[2021-07-08 13:50:23,038] - INFO - main : The confidence value received from recognizer
+[2021-07-08 13:50:23,040] - INFO - camera : The video removed from tempdata
+[2021-07-08 13:50:23,042] - DEBUG - main : Confidence = 57.43879804596465 %
+[2021-07-08 13:51:39,236] - INFO - main : The video file accepted
+[2021-07-08 13:51:39,236] - INFO - main : The username field accepted
+[2021-07-08 13:51:39,237] - INFO - main : The attribute field accepted
+[2021-07-08 13:51:39,237] - INFO - main : The attribute field is equal SIGN IN
+[2021-07-08 13:51:39,238] - INFO - main : The Roman_bugulman directory was created in tempdata
+[2021-07-08 13:51:39,250] - INFO - main : The Roman_bugulman.webm saved in tempdata
+[2021-07-08 13:51:39,250] - INFO - main : Creating Roman_bugulman to SIGN IN
+[2021-07-08 13:51:39,252] - DEBUG - main : <camera.VideoCamera object at 0x0000022ECB4036A0>
+[2021-07-08 13:51:39,252] - INFO - main : Roman_bugulman created!
+[2021-07-08 13:51:39,338] - INFO - main : The confidence value received from recognizer
+[2021-07-08 13:51:39,339] - INFO - camera : The video removed from tempdata
+[2021-07-08 13:51:39,339] - DEBUG - main : Confidence = 57.43879804596465 %
+[2021-07-08 13:51:59,337] - INFO - main : The video file accepted
+[2021-07-08 13:51:59,338] - INFO - main : The username field accepted
+[2021-07-08 13:51:59,338] - INFO - main : The attribute field accepted
+[2021-07-08 13:51:59,339] - INFO - main : The attribute field is equal SIGN IN
+[2021-07-08 13:51:59,339] - INFO - main : The Create directory was created in tempdata
+[2021-07-08 13:51:59,344] - INFO - main : The Create.webm saved in tempdata
+[2021-07-08 13:51:59,345] - INFO - main : Creating Create to SIGN IN
+[2021-07-08 13:51:59,345] - DEBUG - main : <camera.VideoCamera object at 0x0000022ECC636A60>
+[2021-07-08 13:51:59,345] - INFO - main : Create created!
+[2021-07-08 13:52:22,442] - INFO - main : The video file accepted
+[2021-07-08 13:52:22,443] - INFO - main : The username field accepted
+[2021-07-08 13:52:22,443] - INFO - main : The attribute field accepted
+[2021-07-08 13:52:22,443] - INFO - main : The attribute field is equal SIGN IN
+[2021-07-08 13:52:22,444] - INFO - main : The Roman_bugulman directory was created in tempdata
+[2021-07-08 13:52:22,449] - INFO - main : The Roman_bugulman.webm saved in tempdata
+[2021-07-08 13:52:22,449] - INFO - main : Creating Roman_bugulman to SIGN IN
+[2021-07-08 13:52:22,450] - DEBUG - main : <camera.VideoCamera object at 0x0000022ECC61D7C0>
+[2021-07-08 13:52:22,450] - INFO - main : Roman_bugulman created!
+[2021-07-08 13:53:25,512] - INFO - main : The video file accepted
+[2021-07-08 13:53:25,513] - INFO - main : The username field accepted
+[2021-07-08 13:53:25,513] - INFO - main : The attribute field accepted
+[2021-07-08 13:53:25,514] - INFO - main : The attribute field is equal SIGN IN
+[2021-07-08 13:53:25,515] - INFO - main : The Create directory was created in tempdata
+[2021-07-08 13:53:25,520] - INFO - main : The Create.webm saved in tempdata
+[2021-07-08 13:53:25,520] - INFO - main : Creating Create to SIGN IN
+[2021-07-08 13:53:25,520] - DEBUG - main : <camera.VideoCamera object at 0x0000017F2BED76D0>
+[2021-07-08 13:53:25,520] - INFO - main : Create created!
+[2021-07-08 14:00:42,266] - INFO - main : The video file accepted
+[2021-07-08 14:00:42,267] - INFO - main : The username field accepted
+[2021-07-08 14:00:42,267] - INFO - main : The attribute field accepted
+[2021-07-08 14:00:42,267] - INFO - main : The attribute field is equal SIGN IN
+[2021-07-08 14:00:42,267] - INFO - main : The Roman_bugulman directory was created in tempdata
+[2021-07-08 14:00:42,273] - INFO - main : The Roman_bugulman.webm saved in tempdata
+[2021-07-08 14:00:42,273] - INFO - main : Creating Roman_bugulman to SIGN IN
+[2021-07-08 14:00:42,273] - DEBUG - main : <camera.VideoCamera object at 0x000001C34349ED60>
+[2021-07-08 14:00:42,274] - INFO - main : Roman_bugulman created!
+[2021-07-08 14:00:58,927] - INFO - main : The video file accepted
+[2021-07-08 14:00:58,928] - INFO - main : The username field accepted
+[2021-07-08 14:00:58,928] - INFO - main : The attribute field accepted
+[2021-07-08 14:00:58,928] - INFO - main : The attribute field is equal SIGN IN
+[2021-07-08 14:00:58,938] - INFO - main : The Roman_bugulman.webm saved in tempdata
+[2021-07-08 14:00:58,938] - INFO - main : Creating Roman_bugulman to SIGN IN
+[2021-07-08 14:00:58,938] - DEBUG - main : <camera.VideoCamera object at 0x0000025BCBE37910>
+[2021-07-08 14:00:58,938] - INFO - main : Roman_bugulman created!
+[2021-07-08 14:00:59,388] - INFO - main : The confidence value received from recognizer
+[2021-07-08 14:00:59,390] - INFO - camera : The video removed from tempdata
+[2021-07-08 14:00:59,390] - DEBUG - main : Confidence = [63.500140199793] %
+[2021-07-08 14:02:45,878] - INFO - main : The video file accepted
+[2021-07-08 14:02:45,878] - INFO - main : The username field accepted
+[2021-07-08 14:02:45,878] - INFO - main : The attribute field accepted
+[2021-07-08 14:02:45,879] - INFO - main : The attribute field is equal SIGN IN
+[2021-07-08 14:02:45,879] - INFO - main : The Roman_bugulman directory was created in tempdata
+[2021-07-08 14:02:45,893] - INFO - main : The Roman_bugulman.webm saved in tempdata
+[2021-07-08 14:02:45,893] - INFO - main : Creating Roman_bugulman to SIGN IN
+[2021-07-08 14:02:45,893] - DEBUG - main : <camera.VideoCamera object at 0x000001AFB720BAF0>
+[2021-07-08 14:02:45,893] - INFO - main : Roman_bugulman created!
+[2021-07-08 14:02:46,330] - INFO - main : <class 'float'>
+[2021-07-08 14:02:46,331] - INFO - main : The confidence value received from recognizer
+[2021-07-08 14:02:46,332] - INFO - camera : The video removed from tempdata
+[2021-07-08 14:02:46,332] - DEBUG - main : Confidence = [63.500140199793] %
+[2021-07-08 14:03:22,484] - INFO - main : The video file accepted
+[2021-07-08 14:03:22,485] - INFO - main : The username field accepted
+[2021-07-08 14:03:22,485] - INFO - main : The attribute field accepted
+[2021-07-08 14:03:22,485] - INFO - main : The attribute field is equal SIGN IN
+[2021-07-08 14:03:22,486] - INFO - main : The Roman_bugulman directory was created in tempdata
+[2021-07-08 14:03:22,505] - INFO - main : The Roman_bugulman.webm saved in tempdata
+[2021-07-08 14:03:22,506] - INFO - main : Creating Roman_bugulman to SIGN IN
+[2021-07-08 14:03:22,506] - DEBUG - main : <camera.VideoCamera object at 0x0000018C954D8E80>
+[2021-07-08 14:03:22,506] - INFO - main : Roman_bugulman created!
+[2021-07-08 14:03:45,242] - INFO - main : The video file accepted
+[2021-07-08 14:03:45,243] - INFO - main : The username field accepted
+[2021-07-08 14:03:45,243] - INFO - main : The attribute field accepted
+[2021-07-08 14:03:45,243] - INFO - main : The attribute field is equal SIGN IN
+[2021-07-08 14:03:45,265] - INFO - main : The Roman_bugulman.webm saved in tempdata
+[2021-07-08 14:03:45,265] - INFO - main : Creating Roman_bugulman to SIGN IN
+[2021-07-08 14:03:45,265] - DEBUG - main : <camera.VideoCamera object at 0x00000132690D57C0>
+[2021-07-08 14:03:45,265] - INFO - main : Roman_bugulman created!
+[2021-07-08 14:03:45,705] - INFO - main : The confidence value received from recognizer
+[2021-07-08 14:03:45,707] - INFO - camera : The video removed from tempdata
+[2021-07-08 14:03:45,708] - DEBUG - main : Confidence = [63.500140199793] %
+[2021-07-08 14:04:43,930] - INFO - main : The video file accepted
+[2021-07-08 14:04:43,930] - INFO - main : The username field accepted
+[2021-07-08 14:04:43,931] - INFO - main : The attribute field accepted
+[2021-07-08 14:04:43,931] - INFO - main : The attribute field is equal SIGN IN
+[2021-07-08 14:04:43,931] - INFO - main : The Roman_bugulman directory was created in tempdata
+[2021-07-08 14:04:43,959] - INFO - main : The Roman_bugulman.webm saved in tempdata
+[2021-07-08 14:04:43,959] - INFO - main : Creating Roman_bugulman to SIGN IN
+[2021-07-08 14:04:43,960] - DEBUG - main : <camera.VideoCamera object at 0x00000132680A99D0>
+[2021-07-08 14:04:43,960] - INFO - main : Roman_bugulman created!
+[2021-07-08 14:04:44,048] - INFO - main : The confidence value received from recognizer
+[2021-07-08 14:04:44,050] - INFO - camera : The video removed from tempdata
+[2021-07-08 14:04:44,050] - DEBUG - main : Confidence = [63.500140199793] %
+[2021-07-08 14:06:48,108] - INFO - main : The video file accepted
+[2021-07-08 14:06:48,109] - INFO - main : The username field accepted
+[2021-07-08 14:06:48,109] - INFO - main : The attribute field accepted
+[2021-07-08 14:06:48,109] - INFO - main : The attribute field is equal SIGN IN
+[2021-07-08 14:06:48,110] - INFO - main : The Roman_bugulman directory was created in tempdata
+[2021-07-08 14:06:48,151] - INFO - main : The Roman_bugulman.webm saved in tempdata
+[2021-07-08 14:06:48,152] - INFO - main : Creating Roman_bugulman to SIGN IN
+[2021-07-08 14:06:48,152] - DEBUG - main : <camera.VideoCamera object at 0x000002677DB39C40>
+[2021-07-08 14:06:48,152] - INFO - main : Roman_bugulman created!
+[2021-07-08 14:06:48,584] - INFO - main : The confidence value received from recognizer
+[2021-07-08 14:06:48,586] - INFO - camera : The video removed from tempdata
+[2021-07-08 14:06:48,587] - DEBUG - main : Confidence = 63.500140199793 %
+[2021-07-08 14:07:47,957] - INFO - main : The video file accepted
+[2021-07-08 14:07:47,957] - INFO - main : The username field accepted
+[2021-07-08 14:07:47,957] - INFO - main : The attribute field accepted
+[2021-07-08 14:07:47,958] - INFO - main : The attribute field is equal SIGN IN
+[2021-07-08 14:07:47,958] - INFO - main : The Roman_bugulman directory was created in tempdata
+[2021-07-08 14:07:47,962] - INFO - main : The Roman_bugulman.webm saved in tempdata
+[2021-07-08 14:07:47,962] - INFO - main : Creating Roman_bugulman to SIGN IN
+[2021-07-08 14:07:47,963] - DEBUG - main : <camera.VideoCamera object at 0x000002677EB94F10>
+[2021-07-08 14:07:47,963] - INFO - main : Roman_bugulman created!
+[2021-07-08 14:07:48,043] - INFO - main : The confidence value received from recognizer
+[2021-07-08 14:07:48,044] - INFO - camera : The video removed from tempdata
+[2021-07-08 14:07:48,044] - DEBUG - main : Confidence = None %
+[2021-07-08 14:07:59,626] - INFO - auth : Username Roman_bugulman data received
+[2021-07-08 14:07:59,626] - INFO - auth : Confidence = None data received
+[2021-07-08 14:07:59,657] - INFO - auth : Searching username Roman_bugulman in the database
+[2021-07-08 14:08:17,937] - INFO - main : The video file accepted
+[2021-07-08 14:08:17,937] - INFO - main : The username field accepted
+[2021-07-08 14:08:17,937] - INFO - main : The attribute field accepted
+[2021-07-08 14:08:17,937] - INFO - main : The attribute field is equal SIGN IN
+[2021-07-08 14:08:17,937] - INFO - main : The Roman_bugulman directory was created in tempdata
+[2021-07-08 14:08:17,943] - INFO - main : The Roman_bugulman.webm saved in tempdata
+[2021-07-08 14:08:17,943] - INFO - main : Creating Roman_bugulman to SIGN IN
+[2021-07-08 14:08:17,943] - DEBUG - main : <camera.VideoCamera object at 0x000002670F5DD970>
+[2021-07-08 14:08:17,943] - INFO - main : Roman_bugulman created!
+[2021-07-08 14:08:18,034] - INFO - main : The confidence value received from recognizer
+[2021-07-08 14:08:18,035] - INFO - camera : The video removed from tempdata
+[2021-07-08 14:08:18,036] - DEBUG - main : Confidence = 55.0774915880573 %
+[2021-07-08 14:08:36,597] - INFO - main : The video file accepted
+[2021-07-08 14:08:36,597] - INFO - main : The username field accepted
+[2021-07-08 14:08:36,597] - INFO - main : The attribute field accepted
+[2021-07-08 14:08:36,598] - INFO - main : The attribute field is equal SIGN IN
+[2021-07-08 14:08:36,598] - INFO - main : The Roman_bugulman directory was created in tempdata
+[2021-07-08 14:08:36,603] - INFO - main : The Roman_bugulman.webm saved in tempdata
+[2021-07-08 14:08:36,603] - INFO - main : Creating Roman_bugulman to SIGN IN
+[2021-07-08 14:08:36,603] - DEBUG - main : <camera.VideoCamera object at 0x000002670F5DD730>
+[2021-07-08 14:08:36,603] - INFO - main : Roman_bugulman created!
+[2021-07-08 14:08:36,689] - INFO - main : The confidence value received from recognizer
+[2021-07-08 14:08:36,691] - INFO - camera : The video removed from tempdata
+[2021-07-08 14:08:36,691] - DEBUG - main : Confidence = 63.41684207169272 %
+[2021-07-08 14:08:52,531] - INFO - main : The video file accepted
+[2021-07-08 14:08:52,531] - INFO - main : The username field accepted
+[2021-07-08 14:08:52,531] - INFO - main : The attribute field accepted
+[2021-07-08 14:08:52,532] - INFO - main : The attribute field is equal SIGN IN
+[2021-07-08 14:08:52,532] - INFO - main : The Roman_bugulman directory was created in tempdata
+[2021-07-08 14:08:52,537] - INFO - main : The Roman_bugulman.webm saved in tempdata
+[2021-07-08 14:08:52,537] - INFO - main : Creating Roman_bugulman to SIGN IN
+[2021-07-08 14:08:52,537] - DEBUG - main : <camera.VideoCamera object at 0x000002676F141D00>
+[2021-07-08 14:08:52,538] - INFO - main : Roman_bugulman created!
+[2021-07-08 14:08:52,620] - INFO - main : The confidence value received from recognizer
+[2021-07-08 14:08:52,621] - INFO - camera : The video removed from tempdata
+[2021-07-08 14:08:52,621] - DEBUG - main : Confidence = None %
+[2021-07-08 14:09:32,005] - INFO - main : The video file accepted
+[2021-07-08 14:09:32,005] - INFO - main : The username field accepted
+[2021-07-08 14:09:32,005] - INFO - main : The attribute field accepted
+[2021-07-08 14:09:32,006] - INFO - main : The attribute field is equal SIGN IN
+[2021-07-08 14:09:32,006] - INFO - main : The Roman_bugulman directory was created in tempdata
+[2021-07-08 14:09:32,011] - INFO - main : The Roman_bugulman.webm saved in tempdata
+[2021-07-08 14:09:32,011] - INFO - main : Creating Roman_bugulman to SIGN IN
+[2021-07-08 14:09:32,011] - DEBUG - main : <camera.VideoCamera object at 0x000002670F5E2400>
+[2021-07-08 14:09:32,011] - INFO - main : Roman_bugulman created!
+[2021-07-08 14:09:32,096] - INFO - main : The confidence value received from recognizer
+[2021-07-08 14:09:32,097] - INFO - camera : The video removed from tempdata
+[2021-07-08 14:09:32,097] - DEBUG - main : Confidence = 67.8796279043578 %
+[2021-07-08 14:10:03,960] - INFO - main : The video file accepted
+[2021-07-08 14:10:03,961] - INFO - main : The username field accepted
+[2021-07-08 14:10:03,961] - INFO - main : The attribute field accepted
+[2021-07-08 14:10:03,961] - INFO - main : The attribute field is equal SIGN IN
+[2021-07-08 14:10:03,962] - INFO - main : The Roman_bugulman directory was created in tempdata
+[2021-07-08 14:10:03,967] - INFO - main : The Roman_bugulman.webm saved in tempdata
+[2021-07-08 14:10:03,967] - INFO - main : Creating Roman_bugulman to SIGN IN
+[2021-07-08 14:10:03,968] - DEBUG - main : <camera.VideoCamera object at 0x0000020DF3288520>
+[2021-07-08 14:10:03,968] - INFO - main : Roman_bugulman created!
+[2021-07-08 14:10:18,982] - INFO - main : The video file accepted
+[2021-07-08 14:10:18,982] - INFO - main : The username field accepted
+[2021-07-08 14:10:18,982] - INFO - main : The attribute field accepted
+[2021-07-08 14:10:18,982] - INFO - main : The attribute field is equal SIGN IN
+[2021-07-08 14:10:18,987] - INFO - main : The Roman_bugulman.webm saved in tempdata
+[2021-07-08 14:10:18,988] - INFO - main : Creating Roman_bugulman to SIGN IN
+[2021-07-08 14:10:18,988] - DEBUG - main : <camera.VideoCamera object at 0x0000020DF3288BE0>
+[2021-07-08 14:10:18,988] - INFO - main : Roman_bugulman created!
+[2021-07-08 14:10:19,075] - INFO - main : The confidence value received from recognizer
+[2021-07-08 14:10:19,076] - INFO - camera : The video removed from tempdata
+[2021-07-08 14:10:19,076] - DEBUG - main : Confidence = 36.2 %
+[2021-07-08 14:10:32,956] - INFO - main : The video file accepted
+[2021-07-08 14:10:32,956] - INFO - main : The username field accepted
+[2021-07-08 14:10:32,956] - INFO - main : The attribute field accepted
+[2021-07-08 14:10:32,956] - INFO - main : The attribute field is equal SIGN IN
+[2021-07-08 14:10:32,957] - INFO - main : The Roman_bugulman directory was created in tempdata
+[2021-07-08 14:10:32,963] - INFO - main : The Roman_bugulman.webm saved in tempdata
+[2021-07-08 14:10:32,963] - INFO - main : Creating Roman_bugulman to SIGN IN
+[2021-07-08 14:10:32,964] - DEBUG - main : <camera.VideoCamera object at 0x0000020DF3288FA0>
+[2021-07-08 14:10:32,964] - INFO - main : Roman_bugulman created!
+[2021-07-08 14:10:33,063] - INFO - main : The confidence value received from recognizer
+[2021-07-08 14:10:33,064] - INFO - camera : The video removed from tempdata
+[2021-07-08 14:10:33,064] - DEBUG - main : Confidence = 57.8 %
+[2021-07-08 14:16:08,256] - INFO - main : The video file accepted
+[2021-07-08 14:16:08,256] - INFO - main : The username field accepted
+[2021-07-08 14:16:08,256] - INFO - main : The attribute field accepted
+[2021-07-08 14:16:08,256] - INFO - main : The attribute field is equal SIGN UP
+[2021-07-08 14:16:08,257] - INFO - main : The Win directory was created in dataset
+[2021-07-08 14:16:08,262] - INFO - main : The Win.webm saved in dataset
+[2021-07-08 14:16:08,262] - INFO - main : Starting create_recognizer function..
+[2021-07-08 14:16:08,262] - INFO - main : Creating Win to SIGN UP
+[2021-07-08 14:16:08,263] - DEBUG - main : <camera.VideoCamera object at 0x0000024E185BE8E0>
+[2021-07-08 14:16:08,263] - INFO - main : Win created!
+[2021-07-08 14:16:09,068] - INFO - camera : Photos were created!
+[2021-07-08 14:16:09,086] - INFO - camera : The video removed from dataset!
+[2021-07-08 14:16:09,151] - INFO - main :  faces, labels returned from create_recognizer function
+[2021-07-08 14:16:09,177] - INFO - main : The trainer file compiled
+[2021-07-08 14:16:09,220] - INFO - main : The trainer file saved in datasets
+[2021-07-08 14:16:09,220] - INFO - main : Stop create_recognizer function.
+[2021-07-08 14:16:31,021] - INFO - auth : Username data received
+[2021-07-08 14:16:31,021] - DEBUG - auth : Username data = Win
+[2021-07-08 14:16:31,022] - INFO - auth : Username Win created
+[2021-07-08 14:16:31,038] - INFO - auth : Username Win added to database
+[2021-07-08 14:16:31,047] - INFO - auth : Username Win commitedd to database
+[2021-07-08 14:16:31,048] - INFO - auth : Username Win registered successfully
+[2021-07-08 14:16:43,666] - INFO - main : The video file accepted
+[2021-07-08 14:16:43,666] - INFO - main : The username field accepted
+[2021-07-08 14:16:43,667] - INFO - main : The attribute field accepted
+[2021-07-08 14:16:43,667] - INFO - main : The attribute field is equal SIGN IN
+[2021-07-08 14:16:43,667] - INFO - main : The Win directory was created in tempdata
+[2021-07-08 14:16:43,673] - INFO - main : The Win.webm saved in tempdata
+[2021-07-08 14:16:43,674] - INFO - main : Creating Win to SIGN IN
+[2021-07-08 14:16:43,674] - DEBUG - main : <camera.VideoCamera object at 0x0000024E185BE820>
+[2021-07-08 14:16:43,674] - INFO - main : Win created!
+[2021-07-08 14:16:43,775] - INFO - main : The confidence value received from recognizer
+[2021-07-08 14:16:43,776] - INFO - camera : The video removed from tempdata
+[2021-07-08 14:16:43,776] - DEBUG - main : Confidence = 65.6 %
+[2021-07-08 14:16:45,861] - INFO - auth : Username Win data received
+[2021-07-08 14:16:45,861] - INFO - auth : Confidence = 65.6 data received
+[2021-07-08 14:16:45,867] - INFO - auth : Searching username Win in the database
+[2021-07-08 14:16:45,867] - INFO - auth : Username Win now logged in
+[2021-07-08 14:16:47,767] - INFO - auth : Username Win logged out
+[2021-07-08 14:28:25,575] - INFO - auth : Username Wi data received
+[2021-07-08 14:28:25,576] - INFO - auth : Confidence = None data received
+[2021-07-08 14:28:25,595] - INFO - auth : Searching username Wi in the database
+[2021-07-08 14:28:25,595] - INFO - auth : Username Wi incorrect or confidence value < 50%
+[2021-07-08 14:28:30,322] - INFO - auth : Username Win data received
+[2021-07-08 14:28:30,322] - INFO - auth : Confidence = None data received
+[2021-07-08 14:28:30,324] - INFO - auth : Searching username Win in the database

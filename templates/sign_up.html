@@ -1,0 +1,27 @@
+{% extends 'layout.html' %}
+
+{% block body %}
+<script src="{{ url_for('static', filename='webcam.js') }}"></script>
+
+    <h1>Create your account</h1>
+    <h5>1. Enter your Username<br>
+        2. Click RECORD<br>
+        3. After saving a video click Submit
+    </h5>
+    {% from "includes/_formhelpers.html" import render_field %}
+    <div id="container">
+        <video autoplay="true" id="videoElement"></video>
+    </div>
+
+    <div id="webcamcontrols">
+        <p><button onclick="startFunction()">RECORD</button></p>
+    </div>
+
+    <form action="{{url_for('auth.sign_up')}}" method="POST" >
+        {{ form.csrf_token() }}
+        <div class="form-group">
+            {{ form.name(class="form-control", id="username", secret="sign_up", placeholder="Username...") }}
+        </div>
+        <p><input type="submit" class="btn btn-primary" value="Submit"></p>
+    </form>
+{% endblock %}
