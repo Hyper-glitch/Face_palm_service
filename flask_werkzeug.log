@@ -229,3 +229,6 @@
 [2021-07-08 14:49:43,180] - INFO - _internal :  * Detected change in 'c:\\users\\lenovo\\desktop\\my\\python\\traversy_media\\lib\\site-packages\\numpy\\_pytesttester.py', reloading
 [2021-07-08 14:49:43,256] - INFO - _internal :  * Restarting with stat
 [2021-07-08 15:28:48,036] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 15:28:48] "[37mGET / HTTP/1.1[0m" 200 -
+[2021-07-08 16:11:42,743] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 16:11:42] "[37mGET / HTTP/1.1[0m" 200 -
+[2021-07-08 16:11:43,468] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 16:11:43] "[37mGET /sign_up HTTP/1.1[0m" 200 -
+[2021-07-08 16:11:55,750] - INFO - _internal : 127.0.0.1 - - [08/Jul/2021 16:11:55] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
