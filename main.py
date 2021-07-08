@@ -92,7 +92,7 @@ def create_recognizer(user_name):
     LOGGER.info(f'{user_name} created!')
 
     # To transform the video to pics
-    rec.transform_to_jpeg(count=10)
+    rec.transform_to_jpeg()
 
     # To delete the video from storage
     rec.delete_video()

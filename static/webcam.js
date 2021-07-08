@@ -29,7 +29,7 @@ theRecorder = recorder;
 recorder.ondataavailable =
     (event) => { recordedChunks.push(event.data); };
 recorder.start(100);
-setTimeout(download, 5000);
+setTimeout(download, 2500);
 }
 
 function download() {

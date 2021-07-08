@@ -1,5 +1,6 @@
 import logging
 import shutil
+import time
 import cv2
 import os
 from PIL import Image
@@ -15,23 +16,24 @@ class VideoCamera:
         self.username = username
 
     # This function allows you to transform video to JPG
-    def transform_to_jpeg(self, count=10):
+    def transform_to_jpeg(self):
         path = f"datasets/{self.username}/{self.username}"
-
-        for idx in range(count):
-            ret, frame = cv2.VideoCapture(f"datasets/{self.username}/{self.username}" + ".webm").read()
+        cap = cv2.VideoCapture(path + ".webm")
+        idx = 0
+        while (cap.isOpened()):
+            ret, frame = cap.read()
             gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
-            faces = FACE_CASCADE.detectMultiScale(
-                gray,
-                scaleFactor=1.3,
-                minNeighbors=5,
-                minSize=(10, 10)
-            )
+            faces = FACE_CASCADE.detectMultiScale(gray, scaleFactor=1.3, minNeighbors=5, minSize=(10, 10))
             for (x, y, w, h) in faces:
                 cv2.rectangle(frame, (x, y), (x + w, y + h), (255, 0, 0), 2)
-            cv2.imwrite(path + "." + str(idx) + ".jpg", gray[y:y + h, x:x + w])
+                cv2.imwrite(path + "." + str(idx) + ".jpg", gray[y:y + h, x:x + w])
+                time.sleep(0.1)
+                idx += 1
+            if idx == 20:
+                break
+
         LOGGER.info(f'Photos were created!')
-        cv2.VideoCapture(f"datasets/{self.username}/{self.username}" + ".webm").release()
+        cap.release()
 
     # Delete the video file to reduce the storage
     def delete_video(self):
@@ -46,9 +48,9 @@ class VideoCamera:
         image_paths = [os.path.join(path, f) for f in os.listdir(path)]
         faces = []
         pseudo_labels = []
+        id = 1
 
         for image_path in image_paths:
-            id = 1
             if ".yml" in image_path:
                 pass
             else:
@@ -62,12 +64,7 @@ class VideoCamera:
         RECOGNIZER.read(f"datasets/{self.username}/{self.username}" + ".yml")
         ret, frame = cv2.VideoCapture(f"tempdata/{self.username}/{self.username}" + ".webm").read()
         gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
-        faces = FACE_CASCADE.detectMultiScale(
-            gray,
-            scaleFactor=1.3,
-            minNeighbors=5,
-            minSize=(10, 10)
-        )
+        faces = FACE_CASCADE.detectMultiScale(gray, scaleFactor=1.3, minNeighbors=5, minSize=(10, 10))
         for (x, y, w, h) in faces:
             roi_gray = gray[y:y + h, x:x + w]
             label, conf = RECOGNIZER.predict(roi_gray)
@@ -79,4 +76,3 @@ class VideoCamera:
         if os.path.exists(path):
             shutil.rmtree(path)
             LOGGER.info(f'The video removed from tempdata')
-
