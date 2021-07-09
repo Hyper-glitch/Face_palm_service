@@ -48,23 +48,33 @@ def setup_logging(log_level=logging.DEBUG):
 
     werkzeug_log.addHandler(werkzeug_handler)
 
-# def parse_args():
-#     parser = ArgumentParser(description="This FacePalmService application allows you to SIGN UP and SIGN IN to the "
-#                                         "system just with your Face and Username")
-#     parser.version = "1.0"
-#     parser.add_argument("-f", "--logfile-name", type=str, required=True,
-#                         help="Name of the file where log will be saved")
-#
-#     log_levels = ', '.join([lvl for lvl in logging._nameToLevel])
-#     parser.add_argument("-l", "--log-level", type=str, help=f"Log level. Supported: {log_levels}", default=logging.INFO)
-#     parser.add_argument("-V", "--version", action="version")
-#     cli_args = parser.parse_args()
-#     return cli_args
+
+def parse_args():
+    parser = ArgumentParser(description="This FacePalmService application allows you to SIGN UP and SIGN IN to the "
+                                        "system just with your Face and Username")
+    parser.version = "1.0"
+    parser.add_argument("-V", "--version", action="version")
+    parser.add_argument('-H', '--host',
+                        help='host ip',
+                        required=True,
+                        default='localhost')
+    parser.add_argument('-p', '--port',
+                        help='port of the web server',
+                        required=True,
+                        default='5000')
+    parser.add_argument('-u', '--user',
+                        help='user name',
+                        default='root')
+
+    cli_args = parser.parse_args()
+    return cli_args
 
 
 def create_app():
     setup_logging()
-    # args = parse_args()
+    args = parse_args()
+    port = args.port
+    host = args.host
 
     app = Flask(__name__)
     app.config['SECRET_KEY'] = '@w2rtpv^_1tewn'
@@ -83,7 +93,7 @@ def create_app():
     # blueprint for non-auth parts of app
     app.register_blueprint(main_blueprint)
 
-    return app
+    app.run(debug=True, port=port, host=host)
 
 
 if __name__ == '__main__':
