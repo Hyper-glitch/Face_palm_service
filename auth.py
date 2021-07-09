@@ -73,7 +73,6 @@ def sign_up():
 @auth.route('/logout', methods=['GET', 'POST'])
 def logout():
     name = session.get('name', None)
-
     session.clear()
     flash('You are now logged out', 'success')
     LOGGER.info(f'Username {name} logged out')

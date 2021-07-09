@@ -94,7 +94,7 @@ def create_recognizer(user_name):
     # To transform the video to pics
     rec.transform_to_jpeg()
 
-    # To delete the video from storage
+    # To delete the video from datasets
     rec.delete_video()
 
     # To create a trainer file to recognize
