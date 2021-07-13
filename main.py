@@ -43,10 +43,6 @@ def upload_file():
     attribute = request.form['attribute']
     LOGGER.info('The attribute field accepted')
 
-    # if user_name == None:
-    #     flash('Please enter your username!', 'warning')
-    #     return redirect(url_for('auth.sign_up'))
-
     if attribute == "sign_up":
         LOGGER.info('The attribute field is equal SIGN UP')
         filename = secure_filename(file.filename)
