@@ -1,0 +1,23 @@
+[2022-01-31 22:55:22,964] - INFO - _internal :  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+[2022-01-31 22:55:22,964] - INFO - _internal :  * Restarting with stat
+[2022-01-31 22:55:23,669] - WARNING - _internal :  * Debugger is active!
+[2022-01-31 22:55:23,777] - INFO - _internal :  * Debugger PIN: 654-257-911
+[2022-01-31 22:56:11,390] - INFO - _internal : 127.0.0.1 - - [31/Jan/2022 22:56:11] "[37mGET / HTTP/1.1[0m" 200 -
+[2022-01-31 22:56:11,436] - INFO - _internal : 127.0.0.1 - - [31/Jan/2022 22:56:11] "[37mGET /static/style.css HTTP/1.1[0m" 200 -
+[2022-01-31 22:56:11,601] - INFO - _internal : 127.0.0.1 - - [31/Jan/2022 22:56:11] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2022-01-31 22:56:39,761] - INFO - _internal : 127.0.0.1 - - [31/Jan/2022 22:56:39] "[37mGET / HTTP/1.1[0m" 200 -
+[2022-01-31 22:56:41,404] - INFO - _internal : 127.0.0.1 - - [31/Jan/2022 22:56:41] "[37mGET / HTTP/1.1[0m" 200 -
+[2022-01-31 22:56:42,432] - INFO - _internal : 127.0.0.1 - - [31/Jan/2022 22:56:42] "[37mGET /contact HTTP/1.1[0m" 200 -
+[2022-01-31 22:56:45,560] - INFO - _internal : 127.0.0.1 - - [31/Jan/2022 22:56:45] "[37mGET / HTTP/1.1[0m" 200 -
+[2022-01-31 22:56:46,693] - INFO - _internal : 127.0.0.1 - - [31/Jan/2022 22:56:46] "[37mGET / HTTP/1.1[0m" 200 -
+[2022-01-31 22:56:49,031] - INFO - _internal : 127.0.0.1 - - [31/Jan/2022 22:56:49] "[37mGET /sign_up HTTP/1.1[0m" 200 -
+[2022-01-31 22:56:49,075] - INFO - _internal : 127.0.0.1 - - [31/Jan/2022 22:56:49] "[37mGET /static/webcam.js HTTP/1.1[0m" 200 -
+[2022-01-31 22:57:16,561] - INFO - _internal :  * Detected change in '/home/roman/Desktop/Projects/Face_palm_service/application.py', reloading
+[2022-01-31 22:57:16,663] - INFO - _internal :  * Restarting with stat
+[2022-01-31 22:57:54,749] - INFO - _internal :  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+[2022-01-31 22:57:54,749] - INFO - _internal :  * Restarting with stat
+[2022-01-31 22:57:55,185] - WARNING - _internal :  * Debugger is active!
+[2022-01-31 22:57:55,185] - INFO - _internal :  * Debugger PIN: 654-257-911
+[2022-01-31 22:58:03,689] - INFO - _internal : 127.0.0.1 - - [31/Jan/2022 22:58:03] "[37mGET / HTTP/1.1[0m" 200 -
+[2022-01-31 22:58:03,734] - INFO - _internal : 127.0.0.1 - - [31/Jan/2022 22:58:03] "[37mGET /static/style.css HTTP/1.1[0m" 200 -
+[2022-01-31 22:58:03,892] - INFO - _internal : 127.0.0.1 - - [31/Jan/2022 22:58:03] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
